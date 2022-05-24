@@ -1,0 +1,12 @@
+* {
+    font-family: 'Comfortaa', Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000;
+}
+
+#coming-soon {
+    margin-top: 3rem;
+}
